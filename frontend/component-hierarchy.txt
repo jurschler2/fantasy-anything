@@ -4,11 +4,9 @@
     |
     |-- Routes
             |
-            |-- PublicRoutes
-            |             |
-            |             |-- Register
-            |             |
-            |             |-- About
+            |-- Register
+            |
+            |-- About
             |
             |-- PrivateRoutes
                           |--
